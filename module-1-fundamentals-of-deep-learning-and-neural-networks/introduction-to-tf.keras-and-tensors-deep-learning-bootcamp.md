@@ -57,7 +57,7 @@ Tensorflow 2.0 is not just a library, it’s an Ecosystem. Not only you have the
 * Open a Jupyter Notebook/Google Colab
 * In a cell type and execute the following command:
 * `import tensorflow as tp`\
-  `print(tf.__version__)`
+  `print(tp.__version__)`
 * Make sure the displayed version starts with 2 i.e ensure Tensorflow 2 has been installed.
 * Google Colab uses TensorFlow 2 by default.
 
