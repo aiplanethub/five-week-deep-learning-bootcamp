@@ -105,8 +105,6 @@ This is an optional video. Go through it if you don’t know what a slope of a l
 
 * An intercept or offset from an origin. Bias (also known as the bias term) is referred to as b or w0 in machine learning models. For example, bias is the b in the following formula: y = mx + b.
 
-****
-
 ### Hyperparameters
 
 * Hyperparameters are those parameters of the model whose values affects the model’s performance.
