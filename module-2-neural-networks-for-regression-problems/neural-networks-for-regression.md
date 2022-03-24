@@ -2,23 +2,47 @@
 
 ### Learning Objectives
 
-* **Linear Regression**&#x20;
-* **Cost**
-* **Learning Rate**&#x20;
-* **Epochs**&#x20;
-* **Batch Size**
+* Equation of a Straight Line
+* Linear Regression&#x20;
+* Cost
+* Learning Rate&#x20;
+* Epochs&#x20;
+* Batch Size
+
+### What is Slope of a Line?
+
+{% embed url="https://youtu.be/MeU-KzdCBps" %}
+This is an optional video. Go through it if you don’t know what a slope of a line is.
+{% endembed %}
+
+### Equation of a Straight Line
+
+* In algebra, a linear equation (equation of a straight line) typically takes the form y = mx + b, where m and b are constants, **x is the independent variable, y is the dependent variable.**
+* Basically, the value of y is being calculated using x whereas x has no dependence on value of y.
+* y = how far up x = how far along m = Slope or Gradient (how steep the line is) b = value of y when x=0
+
+![](https://lh6.googleusercontent.com/OaGsViGYz81XFJ4mHvNN6unULCfmtX1nDYqa3VlgU\_LJYvS9M8AiTEFD6q6YoXOw9m3eGO4Vh6wjKQzzVzAK9UTGG1KeHuE5mkDksxGiGxWpnZ31eaMgJETazxJ0nnKkin\_fsqcXHPQ)
+
+* **How do you find "m" and "b"?**
+  * b is easy: just see where the line crosses the Y axis.&#x20;
+  * m (the Slope) needs some calculation:
+  * ![](https://lh4.googleusercontent.com/jhEEyf0eV4qhw0B7dRsg2DMqbkDcw5WGVvjj-eWc\_-euBjhjEr0gjBnmVh8fO8sS2NknIOuUePqeiS425D4-ogRHT2cykG8BJRBgLsa-dZWRnPapBp7qKs0aidWx1JnQdgHFuckZYQo)
 
 ### What is linear regression? - an example
 
-* Suppose you are thinking of selling your home. And, various houses with diﬀerent sizes (area in sq.ft) around you have sold for diﬀerent prices as listed below:
+* Suppose you are thinking of selling your home. And, various houses around you with different sizes (area in sq.ft) around you have sold for different prices as listed below:
 
 ![](<../.gitbook/assets/8 (3)>)
+
+
+
+
 
 * And considering, **your home is 3000 square feet**. How much should you sell it for?
 * When you **look at the existing price patterns (data) and predict a price** **for your home** that is an example of **linear regression.**
 * Here's an easy way to do it. Plotting the 3 data points (information about previous homes) we have so far:
 
-![](https://lh4.googleusercontent.com/qvOA4hbtKF3pbLMqEG9R\_COJpMcPI\_6Zb7H7afps0EzUppbDgpZxmx3NwujKV8i85D01Wo7teF3kT4Tp5k\_fXqs45pbsbFmuRkPTqL68xF\_9mdogWLGlNRlJgCTBtNGeeJYIqh2p-rc)
+
 
 * Now you can eyeball it and roughly draw a line that gets pretty close to all of these points. Then look at the price shown by the line, where the square footage is 3000:
 
@@ -33,15 +57,9 @@
 
 ### What is linear regression? - to summarize
 
-* Linear regression is a linear model i.e. a model that assumes a **linear** **relationship** (straight-line relationship) between the input variables (x) **** and the single output variable (y).
-* When there is a single input variable (x), the method is referred to as **simple linear regression** or just linear regression. For eg. The area of houses in this case.
-* When there are multiple input variables, it is often referred to as **multiple linear regression**. For eg. If area of house, neighbourhood, rooms, etc were given.
-
-### Simple Linear Regression
-
-![](<../.gitbook/assets/20 (4)>)
-
-* In case of linear regression, the relationship between the dependant and the independent variable is a simple equation of a straight line (**y = mx + c**)
+* Linear regression is a linear model i.e. a model that assumes a **linear relationship** (straight-line relationship) between the input variables (x) and the single output variable (y).
+* When there is a single input variable (x), the method is referred to as **simple linear regression** or just linear regression. **Eg:** Salary dataset given [here](https://github.com/dphi-official/Linear\_Regression\_Introduction/blob/master/Salary\_Data.csv). There is only one target variable and one input variable where we are predicting the salary of individual using their years of experience.
+* When there are multiple input variables, it is often referred to as **multiple linear regression**. **Eg:** Smart Metropolitan areas data set, we have multiple input variables.
 
 ### Which line is good?
 
