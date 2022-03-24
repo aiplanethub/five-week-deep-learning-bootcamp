@@ -42,7 +42,7 @@ This is an optional video. Go through it if you don’t know what a slope of a l
 * When you **look at the existing price patterns (data) and predict a price** **for your home** that is an example of **linear regression.**
 * Here's an easy way to do it. Plotting the 3 data points (information about previous homes) we have so far:
 
-
+![](https://lh3.googleusercontent.com/V2WsgQFVQvWaX8FFmAEss\_dyYj\_9S0kJdW3I3ZYmnq-DLnOLBugD7nkQWqZ2NO\_zr4bUwkd9B7JAVSrPk-kQAqgkCb7G8dQOw\_1ZcVEq9eu6NjSse0nB2zig9Bdkk3YjcDHH1-klYgE)
 
 * Now you can eyeball it and roughly draw a line that gets pretty close to all of these points. Then look at the price shown by the line, where the square footage is 3000:
 
