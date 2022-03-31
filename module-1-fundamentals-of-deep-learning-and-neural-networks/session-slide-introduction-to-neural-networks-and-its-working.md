@@ -1,4 +1,4 @@
-# Introduction to Neural Networks & its working
+# Session Slide: Introduction to Neural Networks & its working
 
 ### **Why Deep Learning?**
 
@@ -101,13 +101,14 @@ Classification: **Predicting what class/group certain element belongs to.**
 
 ### **Frameworks for DL in Python**
 
-* **TensorFlow:**&#x20;
-  * Google’s DL framework.&#x20;
-  * Can also work on ioS and Android
-  * **Architectural limitation:** TensorFlow’s architecture TPU only allows **** the execution of a model not to train it.
+*   **TensorFlow:**&#x20;
+
+    * Google’s DL framework.&#x20;
+    * Can also work on ioS and Android
+
+    ****
 * **Pytorch:**&#x20;
   * Operates with a dynamically updated graph. It allows you to make changes to the architecture in the process.
-  * Not as easy for Deployment
 * **Sonnet:**
   * It is built on top of TensorFlow. Designed to create neural networks with a complex architecture by DeepMind.&#x20;
   * Mostly used to reproduce the research demonstrated in DeepMind’s papers with greater ease than Keras, since DeepMind will be using Sonnet themselves.
