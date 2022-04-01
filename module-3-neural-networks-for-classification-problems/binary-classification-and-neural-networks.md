@@ -24,7 +24,7 @@ Let’s learn with some examples:
   * Predict whether to give college admission or not
   * Note: There can be classification problems with more than 2 classes and it is called as multi-classification
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10) (1).png>)
 
 ### What is Multi-Classification?
 
@@ -66,7 +66,7 @@ Let’s learn with some examples:
 
 **Imagine there is an outlier to towards right**
 
-![](<../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (21) (1).png>)
 
 * As we can see outlier in the data and will distort the whole linear regression line.
 * Clearly the line is unable to diﬀerentiate the classes with the linear line fit

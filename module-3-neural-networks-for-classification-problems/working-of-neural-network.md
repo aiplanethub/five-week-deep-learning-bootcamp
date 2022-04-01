@@ -23,11 +23,11 @@
 * **For example,** in the given image we are classifying the data into **** two classes **class A** and **class B**.
 * The data in the image are classified with a straight line (i.e. linear boundary)
 
-![](<../.gitbook/assets/image (23).png>)
+![](<../.gitbook/assets/image (23) (1).png>)
 
 ### **Non - Linear Boundary**
 
-![](<../.gitbook/assets/image (22).png>)
+![](<../.gitbook/assets/image (22) (1).png>)
 
 Both the models above are unable to classify our data into 2 classes because in both the cases the red points (significant in number) is present on the both sides of the line.
 
@@ -56,11 +56,11 @@ Realistic data is much more complex and not always classified by a straight line
 
 * The blue layer and the green layer are two **hidden layers** which are not directly observable while building the neural network. The number of neurons in these hidden layers are initially assigned by us and we can find the optimal number of neurons in hidden layer through hyperparameter tuning.
 
-![](<../.gitbook/assets/image (19).png>)
+![](<../.gitbook/assets/image (19) (1).png>)
 
 * The red layer is the **output layer**. This is the last layer of a neural network that produces the required output. For example, **‘MEDV’** (Median value of owner-occupied homes in 1000 USD's) was the output layer in [boston](https://github.com/dphi-official/Deep\_Learning\_Bootcamp/blob/master/Linear\_Regression/Linear\_Regression\_with\_tf\_keras\_Beginners.ipynb) [house price dataset](https://github.com/dphi-official/Deep\_Learning\_Bootcamp/blob/master/Linear\_Regression/Linear\_Regression\_with\_tf\_keras\_Beginners.ipynb).
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (1).png>)
 
 * **Weights:** There is some weight assigned for each connection. Weights **** represent scalar (constant) multiplication. Initially these are assigned randomly, then these weights are updated as per their importance in predicting the output. The updation of weight is done through back propagation (you will know this in upcoming slides).
 
@@ -140,7 +140,7 @@ What is Forward Propagation in NN?
 * Well, if you break down the words, **forward** implies moving ahead and **propagation** is a term for saying spreading of anything.
 * Forward propagation means we are moving in only one direction, from input to the output, in a neural network.
 
-![](<../.gitbook/assets/image (24).png>)
+![](<../.gitbook/assets/image (24) (1).png>)
 
 * The video below takes a Bank Transaction Dataset Example. The dataset has two features; number of children and accounts and the objective is to predict how many transaction will a user make at bank.
 * The video covers the following aspects:

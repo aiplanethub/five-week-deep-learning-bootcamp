@@ -29,7 +29,7 @@
 
 * As you might remember, cost function is minimized by gradient descent. Gradient descent is an eﬃcient optimization algorithm that attempts to find a local or global minima of a function.
 
-![](<../.gitbook/assets/image (20).png>)
+![](<../.gitbook/assets/image (20) (1).png>)
 
 * You might’ve heard ‘repeat the process of Gradient Descent (GD) until convergence’. But what is exactly convergence?
 * **Reaching a point in which GD makes very small changes in your cost function is called convergence**, which doesn't necessarily mean it **** has reached the optimal result (but it is really quite near, if not on it).
