@@ -33,5 +33,6 @@
   * [Convolutional Neural Networks (CNN)](week-3/convolutional-neural-networks-cnn.md)
   * [Recorded Session: Convolutional Neural Networks (CNN) Essentials](week-3/recorded-session-convolutional-neural-networks-cnn-essentials.md)
   * [Notebooks](week-3/notebooks.md)
+  * [Digital](week-3/digital.md)
 * [Week 4](week-4.md)
 * [Week 5](week-5.md)
