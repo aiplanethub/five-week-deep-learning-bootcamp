@@ -8,6 +8,7 @@
 * The same is not true for other Machine learning algorithms, as they reach a plateau after a certain amount of data is provided
 * Deep Learning is not a new technique, it has been around for decades, but it has only gained popularity in the last 15 years
 * **Reason Being- Enormous increase in availability of data.**
+* **Note:** As shown in the graph the performance plateau holds true only in comparison to older learning algorithms. And recent advancements in SOTA models such as XGBoost and LightGBM are equivalent to Deep Learning and have proven to be effective.
 
 ### **Brain Neurons**
 
