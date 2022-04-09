@@ -69,6 +69,8 @@
 
 ### Applications of GAN
 
+\[watch till 9 mins 35 secs]
+
 **Ignore the pop ups in between the video**
 
 {% embed url="https://youtu.be/i2q0iwNSNAw" %}
@@ -92,6 +94,8 @@
 * As you can identify from their names, a generator is used to generate real-looking images and the discriminator’s job is to identify which one is a fake. No need to get into their details at the moment. Just enjoy the glory of GANs!
 
 ### Components & Working of GANs
+
+\[start at 9 mins 35 secs to till end of video]
 
 **Ignore the pop ups in between the video**
 
