@@ -24,6 +24,8 @@
 * Don’t worry about the terms like AutoEncoders, Boltzmann Machine, etc. You will again see them in the optional study material that will be shared with you at the end of the bootcamp.
 
 {% embed url="https://youtu.be/i2q0iwNSNAw" %}
+Time: Watch from 3 mins  40 secs to 5 mins 46 seconds
+{% endembed %}
 
 ### Generative Adversarial Network (GAN)
 
@@ -69,7 +71,7 @@
 
 ### Applications of GAN
 
-\[watch till 9 mins 35 secs]
+\[5 mins 45 secs watch till 9 mins 35 secs]
 
 **Ignore the pop ups in between the video**
 
